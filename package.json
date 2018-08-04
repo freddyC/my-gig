@@ -1,0 +1,18 @@
+{
+  "name": "my-gig",
+  "version": "1.0.0",
+  "description": "A way to set up appointments easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appointments",
+    "gig",
+    "scheduling",
+    "work",
+    "flow"
+  ],
+  "author": "Fred Christensen",
+  "license": "MIT"
+}
